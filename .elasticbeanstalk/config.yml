@@ -1,4 +1,6 @@
 branch-defaults:
+  production:
+    environment: prod-env
   test-cicd-2:
     environment: env-dev
     group_suffix: null
